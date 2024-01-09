@@ -1,0 +1,34 @@
+{
+    "guid": "codbex-perseus-app-sample",
+    "repository": {
+        "type": "git",
+        "branch": "main",
+        "url": "https://github.com/codbex/codbex-perseus-app.git"
+    },
+    "dependencies": [
+      {
+          "guid": "codbex-perseus",
+          "type": "git",
+          "url": "https://github.com/codbex/codbex-perseus.git",
+          "branch": "main"
+      },
+      {
+          "guid": "codbex-perseus-data",
+          "type": "git",
+          "url": "https://github.com/codbex/codbex-perseus-data.git",
+          "branch": "main"
+      },
+      {
+          "guid": "codbex-perseus-data-sample",
+          "type": "git",
+          "url": "https://github.com/codbex/codbex-perseus-data-sample.git",
+          "branch": "main"
+      },
+      {
+          "guid": "codbex-perseus-ext",
+          "type": "git",
+          "url": "https://github.com/codbex/codbex-perseus-ext.git",
+          "branch": "main"
+      }
+    ]
+}
